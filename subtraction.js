@@ -3,3 +3,14 @@ const Subtraction = (a, b) => {
 };
 
 module.exports = Subtraction;
+
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
+const userMOdel = mongoose.model('user', userSchema);
